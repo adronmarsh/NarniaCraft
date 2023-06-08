@@ -14,6 +14,7 @@
         "AutoRegLib-1.6-49.jar",
         "awesomedungeonnether-forge-1.16.5-3.1.1.jar",
         "betteranimalsplus-1.16.5-11.0.10-forge.jar",
+        "betterendforge-1.16.5-1.6.3.jar",
         "BetterDungeons-1.16.4-1.2.1.jar",
         "betterfpsdist-1.2.jar",
         "BetterMineshafts-Forge-1.16.4-2.0.4.jar",
@@ -40,7 +41,6 @@
         "Croptopia-1.16.5-FORGE-2.0.5.jar",
         "curios-forge-1.16.5-4.1.0.0.jar",
         "DarkPaintings-1.16.5-6.0.11.jar",
-        "DistantHorizons-1.6.5a-1.16.5.jar",
         "DungeonCrawl-1.16.5-2.3.12.jar",
         "dungeons_1.10.3_mc1.16.5.jar",
         "dungeons_enhanced-1.16.5-1.8.2.jar",
@@ -93,7 +93,6 @@
         "obfuscate-0.6.3-1.16.5.jar",
         "obscure_api-11.jar",
         "OfflineSkins-1.16.5-v2.jar",
-        "OptiFine_1.16.5_HD_U_G7.jar",
         "OtyacraftEngine-1.16.5-1.23.jar",
         "paladin-furniture-mod-1.1.1-forge-mc1.16.5-patched.jar",
         "pandoras_creatures-1.16.3-2.0.1.jar",
@@ -138,7 +137,6 @@
         "YungsApi-1.16.4-Forge-13.jar"
     ],
     "blacklist": [
-        "Five+Nights+at+Freddy's+Mod+Update+2+Patch+2.jar",
-        "betterendforge-1.16.5-1.6.3.jar"
+        "Five+Nights+at+Freddy's+Mod+Update+2+Patch+2.jar"
     ]
 }
