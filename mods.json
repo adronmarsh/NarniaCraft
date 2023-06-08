@@ -137,5 +137,6 @@
         "Waystones_1.16.5-7.6.4.jar",
         "Wyrmroost-1.16.3-1.2.11.jar",
         "YungsApi-1.16.4-Forge-13.jar"
-    ]
+    ],
+    "blacklist":["prueba.json"]
 }
