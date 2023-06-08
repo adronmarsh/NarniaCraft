@@ -138,8 +138,8 @@
         "Wyrmroost-1.16.3-1.2.11.jar",
         "YungsApi-1.16.4-Forge-13.jar"
     ],
-    "blacklist":[
-        "prueba.jar",
-        "hola.jar"
-]
+    "blacklist": [
+        "Five+Nights+at+Freddy's+Mod+Update+2+Patch+2.jar",
+        "betterendforge-1.16.5-1.6.3.jar"
+    ]
 }
