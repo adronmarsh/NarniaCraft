@@ -41,7 +41,6 @@
         "cloth-config-4.16.91-forge.jar",
         "CNB-1.16.3_5-1.2.11.jar",
         "collective-1.16.5-5.49.jar",
-        "configured-1.5.4-1.16.5.jar",
         "CookingForBlockheads_1.16.5-9.3.4.jar",
         "Craftable+Horse+Armour++Saddle-1.16.5-1.7--Forge.jar",
         "create-mc1.16.5_v0.3.2g.jar",
@@ -160,5 +159,10 @@
     ],
     "blacklist": [
         "Five+Nights+at+Freddy's+Mod+Update+2+Patch+2.jar"
+    ],
+    "optionals": [
+        "configured-1.5.4-1.16.5.jar",
+        "DistantHorizons-1.6.5a-1.16.5.jar",
+        "OptiFine_1.16.5_HD_U_G7.jar"
     ]
 }
